@@ -5,7 +5,7 @@
     
   - 👋 Hi, I’m @blueyue
   - 👀 I’m interested in AI so I started learning programming first
-  - 🌱 I’m a beginner in technologies like Angular, C++ , Kotlin , Unity , Maya
+  - 🌱 I’m a beginner in technologies like Python, Angular, C++ , Kotlin , Unity , Maya
 
   <div style="height: 100vh; overflow: auto">
       <img src="https://c.tenor.com/DurVWqW9hpAAAAAC/hola-gatito.gif" width="100"/>
